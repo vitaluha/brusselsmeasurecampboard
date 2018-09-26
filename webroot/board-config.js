@@ -4,5 +4,5 @@ gOptions = {
   city: 'Brussels',
   venue_name: '',
   venue_address: '',
-  google_sheet_url: 'https://docs.google.com/spreadsheets/d/1DYrv4z8MI00NVuPhJ4jzrjkY2K5EeBhdWYdpny8c1eY/edit?usp=sharing'
+  google_sheet_url: 'https://docs.google.com/spreadsheets/d/1Axe2cP5tcvJ2XQBnXPd86cEGhzZ_e-02KoMJSN1OV6c/edit?usp=sharing'
 }
